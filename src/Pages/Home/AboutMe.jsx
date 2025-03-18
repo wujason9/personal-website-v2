@@ -9,15 +9,16 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-            tempora numquam sint odit optio.
+          I am a passionate software developer with a strong foundation in computer science, 
+          machine learning, and software engineering. With a degree from the University of 
+          Toronto and hands-on experience at Moneris, I have built scalable web applications using 
+          React.js and Spring Boot, optimized backend systems, and improved performance through efficient database integration.
           </p>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
+          My expertise extends to deep learning and machine learning, where I have developed models for 
+          speech emotion analysis and image classification, leveraging CNNs, RNNs, and advanced data 
+          processing techniques. I thrive in collaborative, Agile-driven environments and am always eager 
+          to tackle complex problems with innovative solutions.
           </p>
         </div>
       </div>
